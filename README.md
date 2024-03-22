@@ -2,11 +2,11 @@
 ## presentation
 ### I am from Seoul Korea
 #### [Location of Korea]
-<img src="https://wsjung0516.github.io/ESL_presentation/images/Korea_map.png" width="600" height="800">
+<img src="https://wsjung0516.github.io/ESL_presentation/images/Korea_map.png" width="1200" height="800">
 
-<img src="https://wsjung0516.github.io/ESL_presentation/images/Korea_flag2.png" width="600" height="800">
+<img src="https://wsjung0516.github.io/ESL_presentation/images/Korea_flag2.png" width="1200" height="800">
 
-<img src="https://wsjung0516.github.io/ESL_presentation/images/military_power.png" width="600" height="800">
+<img src="https://wsjung0516.github.io/ESL_presentation/images/military_power.png" width="1200" height="800">
 
 [My hometown](https://www.youtube.com/watch?v=ckfOIEx8yqU)
 ### My family
