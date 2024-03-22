@@ -1,4 +1,4 @@
-# ESL Presentation
+
 ## I am from Seoul Korea
 ### [Location of Korea]
 <img src="https://wsjung0516.github.io/ESL_presentation/images/Korea_map.png" width="1200" height="800">
