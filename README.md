@@ -4,7 +4,7 @@
 <img src="https://wsjung0516.github.io/ESL_presentation/images/Korea_map.png" width="1200" height="700">
 
 - Korea's history is 4357 (from 2333 BC to 2024 AD)
-- Japan control 36 years
+- Japan colonize Korea for 36 years (1910 ~ 1945)
 - Korean war 1950 ~ 1953
 - Korea is the top 10 economies in the world (2022)
 
@@ -17,6 +17,7 @@
 
 ### Military power
 - Korea's military power is top 5 in the world (2024)
+
 <img src="https://wsjung0516.github.io/ESL_presentation/images/military_power.png" width="1200" height="700">
 
 
