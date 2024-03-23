@@ -1,5 +1,7 @@
 
 ## I am from Seoul Korea
+<img src="https://wsjung0516.github.io/ESL_presentation/images/Korean_flag2.jpg" width="1200" height="700">
+
 ### [Location of Korea]
 <img src="https://wsjung0516.github.io/ESL_presentation/images/Korea_map.png" width="1200" height="700">
 
@@ -8,9 +10,6 @@
 - Korean war 1950 ~ 1953
 - Korea is the top 10 economies in the world (2022)
 
-
-
-<img src="https://wsjung0516.github.io/ESL_presentation/images/Korean_flag2.jpg" width="1200" height="700">
 
 ### My Hometown
 [My hometown](https://www.youtube.com/watch?v=ckfOIEx8yqU)
