@@ -26,7 +26,7 @@
 ### My Portfolio
 [My Portfolio](https://wsjung0516.github.io/homepage/)
 
-### My Hobby
+### My Hobbies
 ##### Meditation, Trekking, Hiking, Watching movies and Traveling.
 [My hobby](https://www.youtube.com/watch?v=gyiJvOLZ1oI)
 
