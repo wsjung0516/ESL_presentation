@@ -1,8 +1,8 @@
 
-## I am from Seoul Korea
+### Korea flag
 <img src="https://wsjung0516.github.io/ESL_presentation/images/Korean_flag2.jpg" width="1200" height="700">
 
-### [Location of Korea]
+### [Korea]
 <img src="https://wsjung0516.github.io/ESL_presentation/images/Korea_map.png" width="1200" height="700">
 
 - Korea's history is 4357 (from 2333 BC to 2024 AD)
@@ -11,7 +11,7 @@
 - Korea is the top 10 economies in the world (2022)
 
 
-### My Hometown
+### Seoul
 [My hometown](https://www.youtube.com/watch?v=ckfOIEx8yqU)
 
 ### Military power
@@ -29,4 +29,6 @@
 ### My Hobbies
 ##### Meditation, Trekking, Hiking, Watching movies and Traveling.
 [My hobby](https://www.youtube.com/watch?v=5KsASVchJWc)
+
+### Thank you for listening!
 
